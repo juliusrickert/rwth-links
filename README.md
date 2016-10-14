@@ -30,3 +30,8 @@
 [RWTH App](http://www.itc.rwth-aachen.de/cms/IT-Center/Forschung-Projekte/~fxfk/RWTH-App/)
 
 [ASEAG App](http://www.aseag.de/fahrplan/aseag-mobil/)
+
+## Latex
+[Einführung](http://bfy.tw/8CIO)
+
+Template u. Beispiel für Übungsabgaben in Subfolder zu finden!
