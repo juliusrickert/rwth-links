@@ -5,6 +5,8 @@
 
 [Prüfungsordnung Informatik](http://www.rwth-aachen.de/global/show_document.asp?id=aaaaaaaaaagzxrf)
 
+Vorraussetzungen sind der Prüfungsordnung zu entnehmen. Inoffizielle Übersicht allerdings in diesem Repository zu finden!
+
 [Fachschaft Mathematik/Physik/Informatik](https://www.fsmpi.rwth-aachen.de)
 
 ## Sammlungen
