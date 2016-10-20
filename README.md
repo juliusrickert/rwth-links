@@ -33,7 +33,11 @@ Vorraussetzungen sind der Prüfungsordnung zu entnehmen. Inoffizielle Übersicht
 
 [ASEAG App](http://www.aseag.de/fahrplan/aseag-mobil/)
 
+[Zentral verwaltete Hörsäle](http://www.campus.rwth-aachen.de/rwth/all/Roomgroups.asp?tguid=0x3C156D5BB09D6E4E9B8C871ADCED4FE9)
+
 [Anfahrt Informatik Zentrum](http://www.informatik.rwth-aachen.de/Kontakt/anfahrt.php)
+
+[Sciebo Cloud](http://www.itc.rwth-aachen.de/cms/IT-Center/IT-Center/Aktuelle-Meldungen/~hljj/sciebo-die-Campus-Cloud/)
 
 ## Latex
 [Einführung](http://bfy.tw/8CIO)
