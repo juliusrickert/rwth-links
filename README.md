@@ -39,6 +39,8 @@ Vorraussetzungen sind der Prüfungsordnung zu entnehmen. Inoffizielle Übersicht
 
 [Sciebo Cloud](http://www.itc.rwth-aachen.de/cms/IT-Center/IT-Center/Aktuelle-Meldungen/~hljj/sciebo-die-Campus-Cloud/)
 
+[Alle Lernräume](https://www.asta.rwth-aachen.de/media/medien/lernraeume_2016-ss_2_93031.pdf)
+
 ## Latex
 [Einführung](http://bfy.tw/8CIO)
 
